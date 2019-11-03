@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.12)  3 NOV 2019 02:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.12)  3 NOV 2019 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -332,36 +332,42 @@ Chapter 1.
 
 ]
 Chapter 2.
-No file literatureReview.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 [3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
+Chapter 3.
+(./literatureReview.bbl [4
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
+ [5
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
  (./literatureReview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
 Package rerunfilecheck Info: File `literatureReview.out' has not changed.
-(rerunfilecheck)             Checksum: 05E7D3F3C7C66CD8C53AB4B9AEC20E6C;358.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
+(rerunfilecheck)             Checksum: 8CFD9424EE65EF2B2931B6DA8B059137;357.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
  ) 
 Here is how much of TeX's memory you used:
- 6954 strings out of 492623
- 99843 string characters out of 6135669
- 194285 words of memory out of 5000000
- 10811 multiletter control sequences out of 15000+600000
- 9928 words of font info for 36 fonts, out of 8000000 for 9000
+ 6963 strings out of 492623
+ 99939 string characters out of 6135669
+ 194311 words of memory out of 5000000
+ 10813 multiletter control sequences out of 15000+600000
+ 10096 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,6n,32p,261b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb>
-Output written on literatureReview.pdf (4 pages, 65253 bytes).
+r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on literatureReview.pdf (6 pages, 82996 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
