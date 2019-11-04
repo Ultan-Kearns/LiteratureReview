@@ -4,4 +4,8 @@
 Wikipedia(multiple), ``P versus np.''
 \newblock \url{https://simple.wikipedia.org/wiki/P_versus_NP}.
 
+\bibitem{polynomial}
+D.~Terr, ``Polynomial time.''
+\newblock \url{http://mathworld.wolfram.com/PolynomialTime.html}.
+
 \end{thebibliography}
