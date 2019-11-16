@@ -1,7 +1,7 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{wiki}
-Wikipedia(multiple), ``P versus np.''
+W.~numerous, ``P versus np.''
 \newblock \url{https://simple.wikipedia.org/wiki/P_versus_NP}.
 
 \bibitem{polynomial}
@@ -11,6 +11,26 @@ D.~Terr, ``Polynomial time.''
 \bibitem{HistoryOfPVsNP}
 M.~Sisper, ``The history and status of the p versus np question.''
 \newblock \url{https://www.win.tue.nl/~gwoegi/P-versus-NP/sipser.pdf}.
+
+\bibitem{Neumann}
+W.~numerous, ``John von neumann.''
+\newblock \url{https://en.wikipedia.org/wiki/John_von_Neumann}.
+
+\bibitem{ResearchPaperRabin}
+M.~O. Rabin, ``Degree of difficulty of computing a function and a partial
+  ordering of recursive sets.''
+\newblock \url{https://www.cs.toronto.edu/~sacook/homepage/rabin_thesis.pdf}.
+
+\bibitem{ResearchPaperHartmanis}
+J.~H. . R.~E. Stearns, ``On the computationl complexity of algorithms.''
+\newblock
+  \url{https://fi.ort.edu.uy/innovaportal/file/20124/1/60-hartmanis_stearns_complexity_of_algorithms.pdf}.
+
+\bibitem{ResearchPaperBlum}
+M.~Blum, ``A machine-independent theory of the complexity of recursive
+  functions.''
+\newblock
+  \url{http://port70.net/~nsz/articles/classic/blum_complexity_1976.pdf}.
 
 \bibitem{Millennium}
 C.~M. Institute, ``Millennium problems.''

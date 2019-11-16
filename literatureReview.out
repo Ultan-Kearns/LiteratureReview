@@ -3,8 +3,9 @@
 \BOOKMARK [1][-]{section.1.2}{What is polynomial time?}{chapter.1}% 3
 \BOOKMARK [1][-]{section.1.3}{Analysis of project}{chapter.1}% 4
 \BOOKMARK [1][-]{section.1.4}{Outline of chapters}{chapter.1}% 5
-\BOOKMARK [0][-]{chapter.2}{P vs NP History}{}% 6
-\BOOKMARK [1][-]{section.2.1}{Formulation of P vs NP}{chapter.2}% 7
-\BOOKMARK [0][-]{chapter.3}{Why is The P vs NP Problem Important?}{}% 8
-\BOOKMARK [0][-]{chapter.4}{Background \046 Experience of Researchers}{}% 9
-\BOOKMARK [0][-]{chapter.5}{Analysis \046 review of Papers}{}% 10
+\BOOKMARK [0][-]{chapter.2}{P vs NP - A history and analysis}{}% 6
+\BOOKMARK [1][-]{section.2.1}{Brute Force Explained}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Origins of P vs NP}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{P vs NP Real World Example}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.4}{Analysis of Sisper's paper}{chapter.2}% 10
+\BOOKMARK [0][-]{chapter.3}{Importance of P vs NP}{}% 11
