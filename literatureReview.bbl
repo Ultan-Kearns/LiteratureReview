@@ -1,8 +1,8 @@
 \begin{thebibliography}{10}
 
-\bibitem{wiki}
-W.~numerous, ``P versus np.''
-\newblock \url{https://simple.wikipedia.org/wiki/P_versus_NP}.
+\bibitem{pvsnpmit}
+L.~Hardesty, ``Explained: P vs. np.''
+\newblock \url{https://news.mit.edu/2009/explainer-pnp}.
 
 \bibitem{polynomial}
 D.~Terr, ``Polynomial time.''
@@ -13,8 +13,8 @@ M.~Sisper, ``The history and status of the p versus np question.''
 \newblock \url{https://www.win.tue.nl/~gwoegi/P-versus-NP/sipser.pdf}.
 
 \bibitem{Neumann}
-W.~numerous, ``John von neumann.''
-\newblock \url{https://en.wikipedia.org/wiki/John_von_Neumann}.
+W.~Poundstone, ``John von neumann - american mathematician.''
+\newblock \url{https://www.britannica.com/biography/John-von-Neumann}.
 
 \bibitem{ResearchPaperRabin}
 M.~O. Rabin, ``Degree of difficulty of computing a function and a partial
@@ -37,8 +37,9 @@ C.~M. Institute, ``Millennium problems.''
 \newblock \url{http://www.claymath.org/millennium-problems}.
 
 \bibitem{AboutMillennium}
-W.~numerous, ``Millennium prize problems.''
-\newblock \url{https://en.wikipedia.org/wiki/Millennium_Prize_Problems}.
+C.~M. Institute, ``The millennium prize problems.''
+\newblock
+  \url{http://www.claymath.org/millennium-problems/millennium-prize-problems}.
 
 \bibitem{ResearchPaperFormalizeMathematics}
 M.~I. .~F. Rabe, ``Formalizing foundations of mathematics.''
@@ -50,9 +51,9 @@ A.~D. Irvine and H.~Deutsch, ``Russell's paradox.''
   2016.
 
 \bibitem{Godel}
-W.~numerous, ``Gödel's incompleteness theorems.''
-\newblock
-  \url{https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems}.
+P.~Raatikainen, ``Gödel's incompleteness theorems.''
+  \url{https://plato.stanford.edu/archives/fall2018/entries/goedel-incompleteness/},
+  2018.
 
 \bibitem{PVsNPSolved}
 S.~B. .~J. Taylor, ``P=np.''

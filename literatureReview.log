@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.12)  28 NOV 2019 06:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.12)  28 NOV 2019 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**literatureReview.tex
+**literatureReview
 (./literatureReview.tex
 LaTeX2e <2018-12-01>
 (/usr/share/texmf-dist/tex/latex/base/report.cls
@@ -340,11 +340,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 Chapter 2.
 [4
 
-] [5]
-
-LaTeX Warning: Citation `Sisper' on page 6 undefined on input line 62.
-
-[6] [7]
+] [5] [6] [7]
 Chapter 3.
 [8
 
@@ -377,84 +373,86 @@ of re-
  []
 
 
-Underfull \hbox (badness 4024) in paragraph at lines 53--56
-[]\OT1/cmr/m/n/10 W. nu-mer-ous, ``G^^?odel's in-com-plete-ness the-o-rems.''  
-[]$\OT1/cmtt/m/n/10 https : / / en .
+Underfull \hbox (badness 1360) in paragraph at lines 54--57
+[]\OT1/cmr/m/n/10 P. Raatikainen, ``G^^?odel's in-com-plete-ness the-o-rems.'' 
+[]$\OT1/cmtt/m/n/10 https : / / plato .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+\OT1/cmtt/m/n/10 stanford . edu / archives / fall2018 / entries / goedel-[]inco
+mpleteness/$[]\OT1/cmr/m/n/10 ,
  []
 
 [10
 
 ]
 ! Misplaced alignment tab character &.
-l.66 G.~M. .~J. D., ``Garey m &
+l.67 G.~M. .~J. D., ``Garey m &
                                 johnson d (1979),computers and intractabilit...
 
 ? 
 
-Underfull \hbox (badness 2005) in paragraph at lines 66--70
+Underfull \hbox (badness 2005) in paragraph at lines 67--71
 []\OT1/cmr/m/n/10 G. M. . J. D., ``Garey m  john-son d (1979),com-put-ers and i
 n-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--70
+Underfull \hbox (badness 10000) in paragraph at lines 67--71
 \OT1/cmtt/m/n/10 (S(351jmbntvnsjt1aadkposzje ) ) / reference / ReferencesPapers
  .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 []\OT1/cmr/m/n/10 A. San-tu-ari, ``Steiner tree np-completeness proof.''  []$\O
 T1/cmtt/m/n/10 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 \OT1/cmtt/m/n/10 / / profs . sci . univr . it / []rrizzi / classes / Complexity
  / provette /
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 77--81
+Underfull \hbox (badness 3039) in paragraph at lines 78--82
 []\OT1/cmr/m/n/10 Y. A. Hi-roki Iwa-mura, Masamichi Akazawa, ``Single-electron 
 ma-
  []
 
 
-Underfull \hbox (badness 5036) in paragraph at lines 77--81
+Underfull \hbox (badness 5036) in paragraph at lines 78--82
 \OT1/cmr/m/n/10 jor-ity logic cir-cuits.''  []$\OT1/cmtt/m/n/10 https : / / www
  . semanticscholar . org / paper /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
 \OT1/cmtt/m/n/10 Single-[]Electron-[]Majority-[]Logic-[]Circuits-[]Iwamura-[]Ak
 azawa /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
  [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
  (./literatureReview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
 Package rerunfilecheck Info: File `literatureReview.out' has not changed.
 (rerunfilecheck)             Checksum: AE50C8544BF49562F387FE131B98F1C4;1007.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
  7038 strings out of 492623
- 101034 string characters out of 6135669
- 202878 words of memory out of 5000000
+ 101042 string characters out of 6135669
+ 202882 words of memory out of 5000000
  10854 multiletter control sequences out of 15000+600000
  10403 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,32p,2000b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,32p,1996b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -463,10 +461,10 @@ mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmtt10.pfb>
-Output written on literatureReview.pdf (12 pages, 142414 bytes).
+Output written on literatureReview.pdf (12 pages, 141892 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
+ 270 PDF objects out of 1000 (max. 8388607)
+ 244 compressed objects within 3 object streams
  46 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
