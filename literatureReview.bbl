@@ -54,4 +54,23 @@ W.~numerous, ``Gödel's incompleteness theorems.''
 \newblock
   \url{https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems}.
 
+\bibitem{PVsNPSolved}
+S.~B. .~J. Taylor, ``P=np.''
+\newblock \url{https://arxiv.org/pdf/cs/0406056.pdf}.
+
+\bibitem{P!=NP}
+S.~B. .~J. Taylor, ``On the p vs np question: A proof of inequality.''
+\newblock \url{https://core.ac.uk/reader/76531920}.
+
+\bibitem{GaeryJohnson}
+G.~M. .~J. D., ``Garey m & johnson d (1979),computers and intractability, w.h.
+  freeman, new york, ny.''
+\newblock
+  \url{https://www.scirp.org/(S(351jmbntvnsjt1aadkposzje))/reference/ReferencesPapers.aspx?ReferenceID=2157543}.
+
+\bibitem{Steiner}
+A.~Santuari, ``Steiner tree np-completeness proof.''
+\newblock
+  \url{http://profs.sci.univr.it/~rrizzi/classes/Complexity/provette/Santuari/steiner.pdf}.
+
 \end{thebibliography}

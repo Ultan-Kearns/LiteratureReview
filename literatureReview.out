@@ -1,13 +1,15 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.1.1}{P vs NP Problem - A Brief Introduction}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.1}{P VS NP Problem - A Brief Introduction}{chapter.1}% 2
 \BOOKMARK [1][-]{section.1.2}{An Explanation of Polynomial Time}{chapter.1}% 3
 \BOOKMARK [1][-]{section.1.3}{Analysis of Project}{chapter.1}% 4
 \BOOKMARK [1][-]{section.1.4}{Outline of Chapters}{chapter.1}% 5
-\BOOKMARK [0][-]{chapter.2}{P vs NP - A History \046 Analysis}{}% 6
+\BOOKMARK [0][-]{chapter.2}{P VS NP - A History \046 Analysis}{}% 6
 \BOOKMARK [1][-]{section.2.1}{Brute Force Explained}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.2}{Origins of P vs NP}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.3}{P vs NP Real World Example}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{Origins of P VS NP}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{P VS NP Real World Example}{chapter.2}% 9
 \BOOKMARK [1][-]{section.2.4}{Analysis of Current State of Problem and Research}{chapter.2}% 10
-\BOOKMARK [1][-]{section.2.5}{Analysis of Sisper's Paper \046 Selected Sources of Which it is Based}{chapter.2}% 11
-\BOOKMARK [0][-]{chapter.3}{Importance of P vs NP}{}% 12
-\BOOKMARK [0][-]{chapter.4}{Conclusion}{}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{P = NP?}{section.2.4}% 11
+\BOOKMARK [2][-]{subsection.2.4.2}{P != NP?}{section.2.4}% 12
+\BOOKMARK [1][-]{section.2.5}{Analysis of Papers Reviewed}{chapter.2}% 13
+\BOOKMARK [0][-]{chapter.3}{Importance of P VS NP}{}% 14
+\BOOKMARK [0][-]{chapter.4}{Conclusion}{}% 15
