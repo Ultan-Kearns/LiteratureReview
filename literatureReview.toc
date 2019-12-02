@@ -9,7 +9,8 @@
 \contentsline {section}{\numberline {2.3}P VS NP Real World Example}{5}{section.2.3}% 
 \contentsline {section}{\numberline {2.4}Analysis of Current State of Problem and Research}{5}{section.2.4}% 
 \contentsline {subsection}{\numberline {2.4.1}Evidence In Favour of P = NP}{5}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Evidence For P != NP}{7}{subsection.2.4.2}% 
+\contentsline {subsection}{\numberline {2.4.2}P = NP?}{5}{subsection.2.4.2}% 
+\contentsline {subsection}{\numberline {2.4.3}Evidence For P != NP}{7}{subsection.2.4.3}% 
 \contentsline {section}{\numberline {2.5}Analysis of Papers Reviewed}{7}{section.2.5}% 
 \contentsline {subsection}{\numberline {2.5.1}The History and Status of the P versus NP Question: An Analysis}{7}{subsection.2.5.1}% 
 \contentsline {subsection}{\numberline {2.5.2}P = NP: An Analysis}{7}{subsection.2.5.2}% 
