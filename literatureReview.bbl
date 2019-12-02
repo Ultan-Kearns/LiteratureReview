@@ -80,4 +80,31 @@ Y.~A. Hiroki~Iwamura, Masamichi~Akazawa, ``Single-electron majority logic
 \newblock
   \url{https://www.semanticscholar.org/paper/Single-Electron-Majority-Logic-Circuits-Iwamura-Akazawa/62d47fab36d60d0af848091d4e001f98cd65bbd2}.
 
+\bibitem{Logic}
+U.~lecturer~at MIT, ``First-order logic.''
+\newblock
+  \url{https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture5FinalPart1Save.pdf}.
+
+\bibitem{Zuse}
+K.~Zuse, ``Konrad zuse’s rechnender raum(calculating space).''
+\newblock
+  \url{https://www.mathrix.org/zenil/ZuseCalculatingSpace-GermanZenil.pdf}.
+
+\bibitem{Wells_2004}
+B.~Wells, ``Hypercomputation by definition,'' {\em Theoretical Computer
+  Science}, vol.~317, pp.~191--207, jun 2004.
+
+\bibitem{Sisperbib}
+M.~Sisper, ``Sisper bibliography.''
+\newblock
+  \url{https://people.eng.unimelb.edu.au/adrianrp/COMP90054/biblio/Author/SIPSER-M.html}.
+
+\bibitem{Sisperdean}
+MIT, ``Michael sipser.''
+\newblock \url{http://orgchart.mit.edu/dean-school-science}.
+
+\bibitem{Sisperacm}
+ACM, ``Michael fredric sipser.''
+\newblock \url{https://dl.acm.org/author_page.cfm?id=81100333940}.
+
 \end{thebibliography}
