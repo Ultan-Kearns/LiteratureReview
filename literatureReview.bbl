@@ -94,6 +94,10 @@ K.~Zuse, ``Konrad zuse’s rechnender raum(calculating space).''
 B.~Wells, ``Hypercomputation by definition,'' {\em Theoretical Computer
   Science}, vol.~317, pp.~191--207, jun 2004.
 
+\bibitem{satisfiability}
+J.~D. Ullman, ``The satisfiability problem.''
+\newblock \url{http://infolab.stanford.edu/~ullman/ialc/spr10/slides/pnp2.pdf}.
+
 \bibitem{Sisperbib}
 M.~Sisper, ``Sisper bibliography.''
 \newblock
