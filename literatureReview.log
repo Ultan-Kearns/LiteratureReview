@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.13)  20 DEC 2019 01:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.12.13)  21 DEC 2019 02:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -345,7 +345,7 @@ Chapter 2.
 Chapter 3.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 50.
+(hyperref)                than one, level fixed on input line 51.
 
 [6
 
@@ -353,7 +353,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Chapter 4.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 78.
+(hyperref)                than one, level fixed on input line 79.
 
 [10
 
@@ -361,10 +361,10 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Chapter 5.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 92.
+(hyperref)                than one, level fixed on input line 93.
 
 (./literatureReview.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 93--1
+Underfull \hbox (badness 10000) in paragraph at lines 94--1
 
  []
 
@@ -481,15 +481,15 @@ hart . mit . edu /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
  (./literatureReview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 Package rerunfilecheck Info: File `literatureReview.out' has not changed.
 (rerunfilecheck)             Checksum: 5C1EE3E5910DD2DD65E07439F2C50785;1611.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
  7149 strings out of 492167
@@ -508,7 +508,7 @@ share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmtt10.pfb>
-Output written on literatureReview.pdf (15 pages, 167718 bytes).
+Output written on literatureReview.pdf (15 pages, 167707 bytes).
 PDF statistics:
  361 PDF objects out of 1000 (max. 8388607)
  330 compressed objects within 4 object streams
